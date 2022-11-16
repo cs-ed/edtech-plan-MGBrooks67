@@ -42,6 +42,14 @@ Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
 
+I teach at Pleasant Valley High School here in Chico, and we currently do not offer any computer science classes. We are in the process of moving to a block schedule (students can take 8 classes a semester compared to the 6 classes they could take with the traditional schedule). This opens room for new classes and new areas of study. This class is designed as an elective class, open to all students on campus, as a means of introducing them to Computer Science and hopfully sparking enough interest that we could expand our offerings in the future. This class, therefore, is intended to be a bit less technical, more accessible. As we were designing this class, our administration asked if we could make it a semester class instead of a year long class, to better fit in the electives schedule at our school.
+
+**ASSETS:** Our district is a one-to-one district, meaninig that each student is issued a Chromebook to use in all of their classes. So each student will have access to a computer to use for this class both in class and at home. This ensures a level of equity that opens this class to a wider group of students. The Chromebooks are managed and maintained by the IT Department of the district, so that is one less thing the teacher has to worry about. Our site Principal and Vice-Principals have been supportive of the idea of bringing Computer Science classes to our campus, which has made the process of submitting the course to the district for approval much easier than it might have otherwise been.
+
+**CONSTRAINTS:** Our district is a one-to-one district, meaning each student is issued a Chromebook to use in all of their classes. This means that we must design the class to function on Chromebooks. The class, therfore, will be primarily web based for both content delivery and projects. The Chromebooks are managed and maintained by the district's IT Department. The IT Department must be involved in the design of the course to make sure that any web based resources we use meet the required standards for safety and security with regards to student use.
+
+**CONTEXT:** This class will be an introductory elective class. As such, I would expect it to draw a wide range of students who are at least somewhat interested in Computer Science. This means that we will need to differentate material and lessons for students who need more support and also for students who want more of a challenge.
+
 ## Plan
 
 ### Software Specifications
