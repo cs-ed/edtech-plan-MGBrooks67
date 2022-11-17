@@ -7,18 +7,17 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-  **Course Title:**  Introduction to Computer Science
+**Course Title:**  Introduction to Computer Science
 
-   **Grade Level:**  9th - 12th
+**Grade Level:**  9th - 12th
 
-   **Graduation 
-      Req Area:**  Elective
+**Graduation Req Area:**  Elective
 
 **Length/Credits:**  1 Semester/5.0 credits
 
- **Prerequisites:**  C or better in Math C/8th grade Math/Pre-Algebra
+**Prerequisites:**  C or better in Math C/8th grade Math/Pre-Algebra
  
- **Course Rationale and Description:**  
+**Course Rationale and Description:**  
 * **Who is this course for?**
 The Introduction to Computer Science (Intro to CS) course doesn't require any prior computer science knowledge in order to be successful. Simply an interest in computer science and willingness to learn about ‘the mysteries of computers’. Intro to CS is meant to be a semester-long learning experience to explore interest in computer science as a whole. The overall speed of the course is slowed down with a reduction in content to emphasize letting students learn and explore these fundamental concepts at a pace that works best for them. 
 
@@ -57,6 +56,14 @@ I teach at Pleasant Valley High School here in Chico, and we currently do not of
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
+
+Chico Unified School District is a Google Apps for Education district, so most of the software we use is through Google.
+
+The Learning Management System (LMS) is Google Classroom
+Grading, attendance and 
+
+Students will use:
+
 
 ### Hardware Specifications
 
