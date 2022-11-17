@@ -59,10 +59,14 @@ installed as well as any online services.
 
 Chico Unified School District is a Google Apps for Education district, so most of the software we use is through Google.
 
-The Learning Management System (LMS) is Google Classroom
-Grading, attendance and 
+* The Learning Management System (LMS) is Google Classroom
 
-Students will use:
+* Grading, attendance and registration uses Aeries student information system 
+
+Students will (may) use:
+* Google Apps for Education (includes Google Docs, Google Slides, Google Pages, Google Sites)
+* CodeHS which is an online service that houses the class content and provides the IDE for student coding projects
+* GimKit which is a a website that offers games students can use to learn vocabulary and review for tests.
 
 
 ### Hardware Specifications
