@@ -120,6 +120,13 @@ Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 
+Learning Environment:
+The course utilizes a blended classroom approach. The content is a mix of web-based and physical activities. Students will write and run code in the browser, create websites and digital artifacts, and engage in in-person collaborative exercises with classmates. Teachers utilize tools and resources provided by CodeHS to leverage time in the classroom, complexity of assigned tasks and give focused 1-on-1 attention to students. Each unit of the course is broken down into lessons. Lessons consist of video tutorials, short quizzes, example programs to explore, written programming exercises, free response exercises, collaborative creation projects, and research projects.
+
+California Computer Science (Intro to Computer Science) curriculum from CodeHS allows for educators to implement both Project-Based Learning (PBL) and Culturally Responsive Education (CRE) pedagogical techniques in order to better engage students in the learning process. By encouraging students to use critical thinking skills and challenging them to solve authentic and meaningful problems, PBL helps students to develop a deeper and more profound understanding of the power of computation in our everyday lives. This project-based approach is particularly effective in engaging girls and other historically underrepresented groups as well as broadening participation in computing overall. Teachers who are unfamiliar with the goals, methods, and techniques of PBL can learn more at the Buck Institute for Education website. Likewise, more information about CRE can be found at the Education Alliance website. In teaching this curriculum, educators are encouraged to utilize the range of PBL and CRE techniques that have been incorporated into each unit, including driving questions, overarching unit projects, clear rubrics, regular benchmarks, scaffolding activities, final products, and reflection. Used together in a coherent, unified manner that actively engages students in the educational process, PBL and CRE strategies can help students improve their retention of learned experiences and develop stronger problem solving, critical thinking, and group communication skills.
+
+Each unit ends with a comprehensive unit test that assesses student’s mastery of the material from that unit as well as challenge problems where students can display their understanding of the material.
+
 ### Impacts
 
 How will the technology help *all* students learn? In this section, you can also
