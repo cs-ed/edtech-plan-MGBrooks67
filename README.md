@@ -59,20 +59,41 @@ installed as well as any online services.
 
 Chico Unified School District is a Google Apps for Education district, so most of the software we use is through Google.
 
+* Operating Systems: Chrome OS, Windows 10 Pro, Windows 10 Enterprise
+
 * The Learning Management System (LMS) is Google Classroom
 
 * Grading, attendance and registration uses Aeries student information system 
 
 Students will (may) use:
-* Google Apps for Education (includes Google Docs, Google Slides, Google Pages, Google Sites)
+* Google Apps for Education (includes Google Docs, Google Forms, Google Pages, Google Sites, Google Slides)
 * CodeHS which is an online service that houses the class content and provides the IDE for student coding projects
 * GimKit which is a a website that offers games students can use to learn vocabulary and review for tests.
+
+Instructor will (may) use:
+* Google Apps for Education (includes Google Docs, Google Forms, Google Pages, Google Sites, Google Slides)
+* CodeHS which is an online service that houses the class content and provides the IDE for student coding projects
+* GimKit which is a a website that offers games students can use to learn vocabulary and review for tests.
+
+
 
 
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
+
+The primary requirement for the class will be access to a computer with internet access. All students in Chico Unified School District are issued Chromebooks, and the district has resources listed on its website to help with internet access for families who do not have internet at home, so this requirement should not be a problem.
+
+There are several different models of Chromebooks out there, but they all seem to be provided by Hewlet Packard (HP). The most common Chromebook I see on campus is the 
+- HP Chromebook 11 G5 EE Notebook 
+- 1.6 GHz, 2-core, Intel Celeron N3060 CPU
+- 4 GB RAM
+- 32 GB eMMC SSD Storage
+
+Teachers have a desktop computer in their rooms, along with a ViewSonic Touch Screen with internet access at the front of the room, and we were issued laptops for use at home and Starbucks.
+
+
 
 ### Application
 
