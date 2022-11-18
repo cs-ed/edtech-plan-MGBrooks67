@@ -93,6 +93,25 @@ There are several different models of Chromebooks out there, but they all seem t
 
 Teachers have a desktop computer in their rooms, along with a ViewSonic Touch Screen with internet access at the front of the room, and we were issued laptops for use at home and Starbucks.
 
+My desktop:
+- 3.4 GHz Intel Core i7-3770 CPU
+- 232 GB HHD Storage
+- 6 GB RAM Storage
+- it is networked and managed by the district. There is more storage on the district network, but I have no idea how much space that adds.
+
+My laptop:
+- HP Elitebook x360
+- 2.8GHz Intel Core i7-8665U CPU
+- 16 GB Ram
+- 512 GB SSD Storage
+- This laptop is also on the network with the district, so I can access all of that storage from this machine as well.
+
+The ViewSonic:
+- ViewSonic VPC15-WP
+- 2.8 GHz Intel Core i5-8400 CPU
+- 8 GB RAM
+- 256 GB SSD Storage
+
 
 
 ### Application
