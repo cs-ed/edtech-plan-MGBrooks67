@@ -27,13 +27,6 @@ Computer science education can and should be available to all students. With a w
 * **Description:**
 Introduction to Computer Science (Intro to CS) introduces students to the foundational concepts of computer science and explores the impact computing and technology have on our society. There are no official prerequisites (C or better is Math C/8th grade Math/Pre-Algebra recommended) and the course is meant to be a first-time introduction to computer science, but students should be comfortable with functions and function notation. Intro to CS is a semester-long high school curriculum that fully aligns to the K12 California State Computer Science Standards and Standards Framework as specified by California State Board of Education. In addition, the CodeHS platform (and related courses) are well aligned with Common Core Math Standards and Next Generation Science Standards most notably. The course is highly visual, dynamic, and interactive, making it engaging for new coders. The lessons and materials used throughout this curriculum incorporate Project-Based Learning (PBL), a pedagogical approach that actively engages students in the educational process, improves retention, and develops problem-solving, critical-thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.
 
-Learning Environment:
-The course utilizes a blended classroom approach. The content is a mix of web-based and physical activities. Students will write and run code in the browser, create websites and digital artifacts, and engage in in-person collaborative exercises with classmates. Teachers utilize tools and resources provided by CodeHS to leverage time in the classroom, complexity of assigned tasks and give focused 1-on-1 attention to students. Each unit of the course is broken down into lessons. Lessons consist of video tutorials, short quizzes, example programs to explore, written programming exercises, free response exercises, collaborative creation projects, and research projects.
-
-California Computer Science (Intro to Computer Science) curriculum from CodeHS allows for educators to implement both Project-Based Learning (PBL) and Culturally Responsive Education (CRE) pedagogical techniques in order to better engage students in the learning process. By encouraging students to use critical thinking skills and challenging them to solve authentic and meaningful problems, PBL helps students to develop a deeper and more profound understanding of the power of computation in our everyday lives. This project-based approach is particularly effective in engaging girls and other historically underrepresented groups as well as broadening participation in computing overall. Teachers who are unfamiliar with the goals, methods, and techniques of PBL can learn more at the Buck Institute for Education website. Likewise, more information about CRE can be found at the Education Alliance website. In teaching this curriculum, educators are encouraged to utilize the range of PBL and CRE techniques that have been incorporated into each unit, including driving questions, overarching unit projects, clear rubrics, regular benchmarks, scaffolding activities, final products, and reflection. Used together in a coherent, unified manner that actively engages students in the educational process, PBL and CRE strategies can help students improve their retention of learned experiences and develop stronger problem solving, critical thinking, and group communication skills.
-
-Each unit ends with a comprehensive unit test that assesses student’s mastery of the material from that unit as well as challenge problems where students can display their understanding of the material.
-
 
 ### Situation
 
@@ -48,6 +41,7 @@ I teach at Pleasant Valley High School here in Chico, and we currently do not of
 **CONSTRAINTS:** Our district is a one-to-one district, meaning each student is issued a Chromebook to use in all of their classes. This means that we must design the class to function on Chromebooks. The class, therfore, will be primarily web based for both content delivery and projects. The Chromebooks are managed and maintained by the district's IT Department. The IT Department must be involved in the design of the course to make sure that any web based resources we use meet the required standards for safety and security with regards to student use.
 
 **CONTEXT:** This class will be an introductory elective class. As such, I would expect it to draw a wide range of students who are at least somewhat interested in Computer Science. This means that we will need to differentate material and lessons for students who need more support and also for students who want more of a challenge.
+
 
 ## Plan
 
@@ -133,3 +127,5 @@ How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
+
+
