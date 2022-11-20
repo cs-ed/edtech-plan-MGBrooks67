@@ -34,13 +34,13 @@ Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
 
-I teach at Pleasant Valley High School here in Chico, and we currently do not offer any computer science classes. We are in the process of moving to a block schedule (students can take 8 classes a semester compared to the 6 classes they could take with the traditional schedule). This opens room for new classes and new areas of study. This class is designed as an elective class, open to all students on campus, as a means of introducing them to Computer Science and hopfully sparking enough interest that we could expand our offerings in the future. This class, therefore, is intended to be a bit less technical, more accessible. As we were designing this class, our administration asked if we could make it a semester class instead of a year long class, to better fit in the electives schedule at our school.
+I teach at Pleasant Valley High School here in Chico, and we currently do not offer any computer science classes. We are in the process of moving to a block schedule (students can take 8 classes a semester compared to the 6 classes they could take with the traditional schedule). This opens room for new classes and new areas of study. This class is designed as an elective class, open to all students on campus, as a means of introducing them to Computer Science and hopefully sparking enough interest that we could expand our offerings in the future. This class, therefore, is intended to be a bit less technical, more accessible. As we were designing this class, our administration asked if we could make it a semester class instead of a year long class, to better fit in the electives schedule at our school.
 
-**ASSETS:** Our district is a one-to-one district, meaninig that each student is issued a Chromebook to use in all of their classes. So each student will have access to a computer to use for this class both in class and at home. This ensures a level of equity that opens this class to a wider group of students. The Chromebooks are managed and maintained by the IT Department of the district, so that is one less thing the teacher has to worry about. Our site Principal and Vice-Principals have been supportive of the idea of bringing Computer Science classes to our campus, which has made the process of submitting the course to the district for approval much easier than it might have otherwise been.
+**ASSETS:** Our district is a one-to-one district, meaning that each student is issued a Chromebook to use in all of their classes. So each student will have access to a computer to use for this class both in class and at home. This ensures a level of equity that opens this class to a wider group of students. The Chromebooks are managed and maintained by the IT Department of the district, so that is one less thing the teacher has to worry about. Our site Principal and Vice-Principals have been supportive of the idea of bringing Computer Science classes to our campus, which has made the process of submitting the course to the district for approval much easier than it might have otherwise been.
 
-**CONSTRAINTS:** Our district is a one-to-one district, meaning each student is issued a Chromebook to use in all of their classes. This means that we must design the class to function on Chromebooks. The class, therfore, will be primarily web based for both content delivery and projects. The Chromebooks are managed and maintained by the district's IT Department. The IT Department must be involved in the design of the course to make sure that any web based resources we use meet the required standards for safety and security with regards to student use.
+**CONSTRAINTS:** Our district is a one-to-one district, meaning each student is issued a Chromebook to use in all of their classes. This means that we must design the class to function on Chromebooks. The class, therefore, will be primarily web based for both content delivery and projects. The Chromebooks are managed and maintained by the district's IT Department. The IT Department must be involved in the design of the course to make sure that any web based resources we use meet the required standards for safety and security with regards to student use.
 
-**CONTEXT:** This class will be an introductory elective class. As such, I would expect it to draw a wide range of students who are at least somewhat interested in Computer Science. This means that we will need to differentate material and lessons for students who need more support and also for students who want more of a challenge.
+**CONTEXT:** This class will be an introductory elective class. As such, I would expect it to draw a wide range of students who are at least somewhat interested in Computer Science. This means that we will need to differentiate material and lessons for students who need more support and also for students who want more of a challenge.
 
 
 ## Plan
@@ -62,12 +62,12 @@ Chico Unified School District is a Google Apps for Education district, so most o
 Students will (may) use:
 * Google Apps for Education (includes Google Docs, Google Forms, Google Pages, Google Sites, Google Slides)
 * CodeHS which is an online service that houses the class content and provides the IDE for student coding projects
-* GimKit which is a a website that offers games students can use to learn vocabulary and review for tests.
+* GimKit which is a website that offers games students can use to learn vocabulary and review for tests.
 
 Instructor will (may) use:
 * Google Apps for Education (includes Google Docs, Google Forms, Google Pages, Google Sites, Google Slides)
 * CodeHS which is an online service that houses the class content and provides the IDE for student coding projects
-* GimKit which is a a website that offers games students can use to learn vocabulary and review for tests.
+* GimKit which is a website that offers games students can use to learn vocabulary and review for tests.
 
 
 
@@ -79,7 +79,7 @@ wherever necessary.
 
 The primary requirement for the class will be access to a computer with internet access. All students in Chico Unified School District are issued Chromebooks, and the district has resources listed on its website to help with internet access for families who do not have internet at home, so this requirement should not be a problem.
 
-There are several different models of Chromebooks out there, but they all seem to be provided by Hewlet Packard (HP). The most common Chromebook I see on campus is the 
+There are several different models of Chromebooks out there, but they all seem to be provided by Hewlett Packard (HP). The most common Chromebook I see on campus is the 
 - HP Chromebook 11 G5 EE Notebook 
 - 1.6 GHz, 2-core, Intel Celeron N3060 CPU
 - 4 GB RAM
@@ -128,6 +128,5 @@ describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
 
-Most of the technology we are using in this class is common and familiar to the students. This fact should provide a layer of comfort that will allow all students to learn. The main technology that is new to them will be the use of the CodeHS platform for content and the IDE. The site is user friendly, so I believe the students will have no problem using the site. It is very similar to other online learning sites that I know CUSD students have experience using. The platform does a good job of breaking down the tasks of learning to code into discrete and managable steps, with ample scaffoding for those who need extra support. I have only worked with CodeHS in the free mode, so not all of the lessons or features have been unlocked for me as I explored the platform I think the main challenge will be leveling up the challenges for the students who catch on more quickly. 
+Most of the technology we are using in this class is common and familiar to the students. This fact should provide a layer of comfort that will allow all students to learn. The main technology that is new to them will be the use of the CodeHS platform for content and the IDE. The site is user friendly, so I believe the students will have no problem using the site. It is very similar to other online learning sites that I know CUSD students have experience using. The platform does a good job of breaking down the tasks of learning to code into discrete and manageable steps, with ample scaffolding for those who need extra support. I think the main challenge will be leveling up the challenges for the students who catch on more quickly. 
 
-With regards to the question of resiliency
